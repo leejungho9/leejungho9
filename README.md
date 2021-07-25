@@ -3,7 +3,7 @@
 
 <br>
 <p align="center"><b>🛠 Tech Stack 🛠</b></p>
-<br>
+<br> 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/> 
@@ -15,8 +15,9 @@
 <img src="https://img.shields.io/badge/OracleDB-20c997?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ApacheMaven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/> 
 <img src="https://img.shields.io/badge/EclipseIDE-333664?style=flat-square&logo=EclipseIDE&logoColor=white"/> 
- </div>     
- 
+ </div> 
+ <br><br>
+ <p align="center"><b>💻 Project 💻</b></p>
 
 <!--
 **leejungho9/leejungho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
