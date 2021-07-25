@@ -1,7 +1,3 @@
-<img width="1000" alt="LEE" src="https://user-images.githubusercontent.com/71073027/126910799-f076f145-39e2-438f-9638-9309acc70e88.png">
-
-
-
 
 <br>
 <p align="center"><b>🛠 Tech Stack 🛠</b></p>
