@@ -4,7 +4,8 @@
 
 
 <br>
-<p align="center">🛠 Tech Stack 🛠</p>
+<p align="center"><b>🛠 Tech Stack 🛠</b></p>
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/> 
