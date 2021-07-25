@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F1E1A6&textBg=363636&fontColor=f7f5f5&height=300&section=header&text=LEE%20JUNG%20HO&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F1E1A6&textBg=363636&fontColor=ffffff&height=300&section=header&text=LEE%20JUNG%20HO&fontSize=70&animation=fadeIn)
 
 
 <br>
