@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="631" alt="LEE" src="https://user-images.githubusercontent.com/71073027/126909014-ac9e3ebd-0633-49f3-8089-56679a960141.png">
+<img width="1000" alt="LEE" src="https://user-images.githubusercontent.com/71073027/126909014-ac9e3ebd-0633-49f3-8089-56679a960141.png">
 
 <!--
 **leejungho9/leejungho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
