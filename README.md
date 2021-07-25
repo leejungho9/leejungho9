@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LEE%20JUNG%20HO&fontSize=70&animation=fadeIn)
+
 
 <br>
 <p align="center"><b>🛠 Tech Stack 🛠</b></p>
