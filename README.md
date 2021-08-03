@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/jQuery-db3552?style=flat-square&logo=jQuery&logoColor=white"/> 
 <img src="https://img.shields.io/badge/OracleDB-20c997?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ApacheMaven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/> 
+  <br>
 <img src="https://img.shields.io/badge/EclipseIDE-333664?style=flat-square&logo=EclipseIDE&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>   
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>    
@@ -22,7 +23,7 @@
  <br><br>
   <p align="center"><b>💻 Portfolio 💻</b></p>
  <p align="center">https://leejungho9.github.io/Jungho.github.io/</p>
-
+ <br><br>
 
 <!--
 **leejungho9/leejungho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
