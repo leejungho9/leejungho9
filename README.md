@@ -18,7 +18,7 @@
  </div> 
  <br><br>
  <p align="center"><b>😄portfolio😄</b></p> 
- https://leejungho9.github.io/Jungho.github.io/
+ <p align="center">https://leejungho9.github.io/Jungho.github.io/</p>
  <p align="center"><b>💻 Project 💻</b></p>
 
 <!--
