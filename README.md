@@ -20,9 +20,9 @@
 
  </div> 
  <br><br>
- <p align="center"><b>😄portfolio😄</b></p> 
+  <p align="center"><b>💻 Portfolio 💻</b></p>
  <p align="center">https://leejungho9.github.io/Jungho.github.io/</p>
- <p align="center"><b>💻 Project 💻</b></p>
+
 
 <!--
 **leejungho9/leejungho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
