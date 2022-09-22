@@ -32,7 +32,8 @@
  
 <p align="center"><b>💻 velog 💻</b></p>
 <p align="center">https://velog.io/@leejungho9/</p>
-
+ <br><br>
+ 
 <!--
 **leejungho9/leejungho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
