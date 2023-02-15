@@ -13,7 +13,7 @@
  <br>
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML5-e6b91e?style=flat-square&logo=HTML5&logoColor=white"/> 
-
+ <br>
 <img src="https://img.shields.io/badge/jQuery-db3552?style=flat-square&logo=jQuery&logoColor=white"/> 
 <img src="https://img.shields.io/badge/OracleDB-20c997?style=flat-square&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ApacheMaven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/> 
