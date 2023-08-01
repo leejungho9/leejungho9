@@ -16,6 +16,7 @@
   <br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/> 
   <br>
  <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>    
